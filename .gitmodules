@@ -1,0 +1,21 @@
+[submodule "flutter-shopping-list"]
+	path = flutter-shopping-list
+	url = https://github.com/vald3nir/flutter-shopping-list.git
+[submodule "flutter_simple_calculator"]
+	path = flutter_simple_calculator
+	url = https://github.com/vald3nir/flutter_simple_calculator.git
+[submodule "flutter_dashboard"]
+	path = flutter_dashboard
+	url = https://github.com/vald3nir/flutter_dashboard.git
+[submodule "flutter_ecommerce"]
+	path = flutter_ecommerce
+	url = https://github.com/vald3nir/flutter_ecommerce.git
+[submodule "flutter_blog"]
+	path = flutter_blog
+	url = https://github.com/vald3nir/flutter_blog.git
+[submodule "flutter_imc_calculator"]
+	path = flutter_imc_calculator
+	url = https://github.com/vald3nir/flutter_imc_calculator.git
+[submodule "flutter_instagram"]
+	path = flutter_instagram
+	url = https://github.com/vald3nir/flutter_instagram.git

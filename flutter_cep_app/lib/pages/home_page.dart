@@ -74,7 +74,7 @@ class _HomePageState extends State<HomePage> {
                 Visibility(
                   visible: model != null,
                   child: Text(
-                    "${model?.logradouro} ${model?.complemento} ${model?.cep}",
+                    "${model?.toString()}",
                   ),
                 )
               ],

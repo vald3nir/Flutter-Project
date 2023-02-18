@@ -19,3 +19,6 @@
 [submodule "flutter_instagram"]
 	path = flutter_instagram
 	url = https://github.com/vald3nir/flutter_instagram.git
+[submodule "flutter_delivery_app"]
+	path = flutter_delivery_app
+	url = https://github.com/vald3nir/flutter_delivery_app.git

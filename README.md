@@ -13,6 +13,10 @@ A set of Flutter projects for the most diverse purposes
 
     flutter build web
 
+### Fixing Project
+
+    dart fix --apply
+
 ### Create a Dart project
 
     dart create -t console-full ./PROJECTNAME
